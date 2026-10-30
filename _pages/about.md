@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the HKUST NLP Group at the Hong Kong University of Science and Technology. My research focuses on natural language processing and machine learning. I am supervised by Prof. Junxian He.
+I am a first-year PhD candidate at the HKUST NLP Group at the Hong Kong University of Science and Technology. My research focuses on natural language processing and machine learning. I am supervised by Professor Junxian He.
 
 **Contact**
 - Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
